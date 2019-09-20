@@ -16,12 +16,16 @@ stop = stopwords.words('english')
 from nltk.corpus import wordnet
 
 
-
-file = open('resume.txt', encoding="utf8")
+file = open('003.txt', encoding="utf8")
 my_corpus = file.read()
 
-
-Sentences = nltk.sent_tokenize(my_corpus)
+new_corpus = my_corpus.lower()
+#rmoving special chars
+result = re.sub('[^A-Za-z0-9]+',' ', new_corpus)
+#removing nmbrs
+result = re.sub(r'[0-9]+', '', result)
+                             
+Sentences = nltk.sent_tokenize(result)
 Tokens = []
 for Sent in Sentences:
     Tokens.append(nltk.word_tokenize(Sent)) 

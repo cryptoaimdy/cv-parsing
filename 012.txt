@@ -1,0 +1,138 @@
+
+
+Amardeep Brar
+                                    139 New Road, South Darenth, DARTFORD,
+KENT DA4 9AS
+                                                 braramardeep@gmail.com,
+07735379054
+
+Professional Objective
+
+Seeking a position to utilize my skills and abilities in an organization
+that offers professional growth while being highly competent, innovative
+and flexible. I have Keen interest in being a functional specialist as
+Software Engineer . I am self motivated, ambitious and responsible company
+representative.
+
+Certification
+
+      •    OCA (Oracle Certified Associate)
+     •     OCP (Oracle Certified Professional)
+
+Computer Skill Set
+
+   •  Programming Languages :
+      C++, PHP, Oracle10g, PL/SQL, HTML and CSS, Java (RDBMS, Core, JDBC,
+      Servlets, JSP, Beans, XML with Java) .
+
+
+   •  Software Packages :
+      VB, Visual Studio Console Application, MS Office, JBuilder IDE,
+      Netbeans 5.5 IDE.
+
+
+   •  Operating Systems:
+          Windows 2000/XP/Vista, Linux
+
+
+         •      Networking :
+             TCP/IP, WAN/LAN Design, Cabling, Routing, Routing
+Configration, Firewalls
+
+Education
+
+Sept 2008 – Sept 2009
+
+University of East Anglia, Norwich, UK
+MSc. Computing Science
+Modules Include: Application Programming (JAVA); Research Techniques;
+Database Manipulation; Internet and Multimedia Techniques; Computer
+Networks; System Engineering Issues.
+
+Dissertation -This project was aimed at  Research and Designing an
+Algorithm for Timetabling Problem (NP- Hard Problem) in universities using
+Meta heuristic Techniques (Genetic Algorithms and Grasp). In this project
+firstly various IEEE and PATAT publications was studied for research work
+and then was implemented using Java programming language and Genetic
+Algorithms.
+
+ July 2002 – Dec 2007
+
+Punjab Technical University, Punjab, India
+B. Tech Electrical Engineering
+Modules Include: Object oriented Programming (C++), Digital Electronics,
+Microprocessors and Interfacing, Numerical analysis, Electronic devices and
+circuits, Power Electronics, Human Resource Management.
+
+Dissertation- Implemented a Home Automation System, which connected the
+entire home electric system to a single computer through which it can be
+controlled and operated.(passed with distinction in this project.
+
+Employment
+
+Web developer(PHP/MySQL), Dextrous Tech. Ltd. (Mohali, India), March 2010-
+August 2010
+
+•  Developing web based software development projects
+• Designing and developing the corporate websites
+• Designing and developing relational database systems and their web
+interfaces
+• Responsible for integrating the SQL Server database with the company
+website
+• Testing the site for functionality in different browsers and at different
+resolutions
+
+
+  Hardware/Network Engineer, Romantech (Bathinda, India), April 2008-August
+2008
+
+•  Installing, supporting and maintaining new server hardware and software
+infrastructure
+•  Managing all system back-up and restoring, protocol
+• Performing troubleshooting analysis of servers, workstations and
+associated systems
+• Monitoring system performance and implements performance tuning
+• Planning and implementing future IT developments and undertaking project
+work
+• Maintaining wide area networks, tracks significant problems, monitoring
+performance, and performing upgrades to hardware and software as required
+
+
+Personal Information
+
+    • Strengths:
+             Fast learner & hard worker, Confident, Team Worker, Ability to
+   lead the team and like to work in competitive environment
+
+    •  Languages Known:
+              English, Hindi and Punjabi
+
+Extra Curricular Activities and Achievements
+
+I was the captain of my school cricket team and won second prize at
+National level Tournament (out of twelve teams). I love to explore new
+technology and other hobbies are to travel, listening music.
+
+References
+
+ Dr. Wenjia Wang                                               Dr. Geoff
+Mckeown
+ Senior Lecturer                                                  Senior
+Lecturer
+ School of Computing Science                           School of Computing
+Science
+ University of East Anglia, Norwich, UK             University of East
+Anglia, Norwich, UK
+ wjw@uea.ac.uk
+G.Mckeown@uea.ac.uk
+ Tel: +44 (0)1603 59 2577                                  Tel:  +44
+(0)1603 59 2606
+
+
+
+
+
+
+
+
+
